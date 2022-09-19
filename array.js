@@ -13,7 +13,7 @@ console.log(typeof age);
 console.log(typeof isIndependence);
 console.log(typeof student);
 console.log(typeof add);
-check array using array.isArray
+// check array using array.isArray
 console.log(Array.isArray(friends));
 
 //checking something in array using includes.
